@@ -1,3 +1,3 @@
-Hi I'm Jack Zhang, a freshman studying Computer Science at Tufts University! Go Jumbos!
+Hi I'm Jack Zhang, a junior studying Computer Science at Tufts University! Go Jumbos!
 
-I like to make videos in my free time.
+I hope to connect people through intuitive, scalable, web and mobile development. 
